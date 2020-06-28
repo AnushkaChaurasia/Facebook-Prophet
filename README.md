@@ -1,3 +1,1 @@
-# printf('hello world')
-Hi reader
-Anushka here i am creating my first github repositories
+printf("Predict the future price of Avocado using Facebook Prophet")
